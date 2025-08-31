@@ -63,3 +63,33 @@ nav ul li a::after {
 nav ul li a:hover::after {
   width: 100%;
 }
+.intro {
+  margin-top: 10%;
+  margin-right: 35%;
+  font-size: 25px;
+  padding: 35px;
+}
+.intro h2 {
+  margin-top: 5%;
+}
+.intro h2 span {
+  color: orange;
+}
+.about-text {
+  /*margin-top: 0.5%;*/
+  border: 1px groove;
+  padding: 5px;
+  margin-right: -1%;
+  max-width: 280px;
+}
+.about-text h1 {
+  color: blueviolet;
+  margin-bottom: 2.5%;
+}
+.skill-text {
+  padding: 40px;
+}
+
+#head {
+  color: blueviolet;
+}
